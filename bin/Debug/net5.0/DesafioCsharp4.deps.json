@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesafioCsharp4/1.0.0": {
+        "runtime": {
+          "DesafioCsharp4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioCsharp4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
